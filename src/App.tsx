@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
 	return (
-		<div className="w-full justify-center">
+		<div className="w-full flex justify-center">
 			It's working!
 		</div>
 	)
